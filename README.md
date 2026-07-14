@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Smbat Jamalyan
-- 👀 I’m Web Developer
+- 👀 I’m a Web Developer
 - 📫 You can reach me via LinkedIn https://www.linkedin.com/in/smbat/
 
 <!---
@@ -7,4 +7,4 @@ jamalyan/jamalyan is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Smbat's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamalyan&count_private=true&show_icons=true&theme=radical)
+[![Smbat's GitHub stats](https://github-stats-extended.vercel.app/api?username=jamalyan)](https://github.com/stats-organization/github-stats-extended)
